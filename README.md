@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Matheus 👋
 
-<!--
-**mreeis-tech/mreeis-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Profissional de Produto e Dados
+📊 Foco em Análise de Dados, BI e IA aplicada a Negócios  
+💡 Background em ERP / PDV / Operações (Food Tech)
 
-Here are some ideas to get you started:
+Atuo há mais de 3 anos em ambientes de alta criticidade,
+trabalhando com backlog, requisitos, indicadores operacionais,
+dados de suporte e melhoria contínua de produtos digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estudando e aplicando:
+- Análise de Dados (SQL, Python)
+- BI e métricas de negócio
+- Inteligência Artificial aplicada a produtos
+- Métodos ágeis e gestão de produto
+
+## 🧠 Principais Competências
+- Gestão de Backlog e Priorização
+- Análise de Dados para tomada de decisão
+- Escrita de requisitos e histórias de usuário
+- Métricas, SLA e indicadores operacionais
+- IA aplicada a processos e produtos
+
+## 🚀 Projetos em Destaque
+- 📦 Product Backlog – ERP/PDV Food
+- 📊 Análise de Incidentes e Métricas Operacionais
+- 🤖 IA aplicada à priorização e suporte
+
+📫 LinkedIn: https://www.linkedin.com/in/mreeeis/
