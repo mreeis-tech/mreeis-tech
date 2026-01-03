@@ -27,3 +27,6 @@ Atualmente estudando e aplicando:
 - 🤖 IA aplicada à priorização e suporte
 
 📫 LinkedIn: https://www.linkedin.com/in/mreeeis/
+
+![SQL](https://img.shields.io/badge/Skill-SQL-blue)
+![Python](https://img.shields.io/badge/Skill-Python-yellow)
